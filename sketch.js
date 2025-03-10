@@ -53,7 +53,7 @@ function updateIframe() {
   } else if (selected === '第二周') {
     iframe.attribute('src', 'https://www.et.tku.edu.tw/');
   } else if (selected === '第三周') {
-    iframe.attribute('src', 'https://collego.edu.tw/Highschool/DepartmentIntro?dept_id=014006');
+    iframe.attribute('src', 'https://https://mercy94326.github.io/20250310/');
   }
 }
 
